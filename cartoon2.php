@@ -78,7 +78,7 @@ $db_handle = new dbcontroller();
   <div class="column2 novel">
     <form action="ViewCart.php?action=add&id=<?php echo $product_array[5]["id"]; ?>" method="post">
     <div class="content">
-      <h2 style="font-family:'Mali', cursive;">The Way of the Househusband</h2>
+      <h2 style="font-family:'Mali', cursive;">พ่อบ้านสุดเก๋า</h2>
       <h4><span><h5 class="homebook">(โดย Oono Kousuke)</h5></span></h4>
       <p style="font-family:'Mali', cursive;">สำนักพิมพ์ : สยามอินเตอร์คอมมิกส์ (TH)</p>
       <p style="font-family:'Mali', cursive;">ทัตสึคนอมตะ ยากูซ่าในตำนาน เขาคนนั้นได้ล้างมือจากการเป็นยากูซ่า ผันตัวมาเป็น "พ่อบ้านพ่อเรือน"!? ทั้งทำความสะอาด ซักผ้า จ่ายตลาด ทำกับข้าว... วันนี้ก็ขอทุ่มเทสุดตัวทำหน้าที่พ่อบ้านครับ!! เรื่องราวสุดฮาของยากูซ่าทำงานบ้าน เล่ม 1!</p>
