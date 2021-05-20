@@ -127,7 +127,7 @@
 					</td>
 					<td style="text-align: right;"><?php echo $item["quantity"]; ?></td>
 					<td style="text-align: right;"><?php echo "฿ " . $item["price"]; ?></td>
-					<td style="text-align: right"><?php echo "฿ " . number_format($item["price"]*$item["quantity"], 2); ?></td>
+					<td style="text-align: right"><?php echo "฿ " . number_format($item_price, 2); ?></td>
 					<td style="text-align: center;"><a href="Viewcart.php?action=remove&id" class="btmRemoveAction"><img src="icon-delete.png" alt="Remove Item"></a></td>
 				</tr>
 				
